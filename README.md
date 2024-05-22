@@ -76,3 +76,8 @@ Channel 3:
 Channel 4:
   * Button: not used.
   * Led: Input clock pulse (when externally clocked).
+
+## Version info
+
+Hardware v1.1: Pushbuttons with yellow LEDs<br>
+Hardware v1: Pushbuttons with green LEDs
