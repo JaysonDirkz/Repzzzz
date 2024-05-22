@@ -2,7 +2,9 @@ A four channel stereo looper.
 
 **Specs:**
 6 hp
+
 Power draw:
+
   +12V: 83-104 mA
   -12V: 6 mA
 
