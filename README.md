@@ -40,6 +40,7 @@ A four channel stereo looper.
 - Division range: x4 - x2 - 1 - /2 - /4
 
 **Arming and Recording:**<br>
+Record a loop using the pushbuttons.
 1. First push: Arms this channel
     - LED blinks slow
     - Hearing audio input
